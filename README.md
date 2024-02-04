@@ -76,7 +76,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd project-folder
-  git clone https://github.com/jlberbesi/hello-react-front-end/tree/redux
+  git clone https://github.com/jlberbesi/hello-rails-back-end/tree/Api
 ```
 
 ### Install
