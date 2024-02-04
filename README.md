@@ -76,7 +76,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd project-folder
-  git clone https://github.com/lerfast/hello-react-front-end.git
+  git clone https://github.com/jlberbesi/hello-react-front-end/tree/redux
 ```
 
 ### Install
